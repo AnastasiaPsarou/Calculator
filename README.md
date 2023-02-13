@@ -1,2 +1,1 @@
-# Web Applications Technology
- 
+Web Application Technologies 
